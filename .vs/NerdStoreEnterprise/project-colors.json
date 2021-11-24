@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "13f49860-9337-42f1-985f-401334d98223": {
+      "ProjectGuid": "13f49860-9337-42f1-985f-401334d98223",
+      "DisplayName": "NSE.Identidade.API",
+      "ColorIndex": 0
+    },
+    "819191cd-d6b9-467d-8026-fdf65379ff9c": {
+      "ProjectGuid": "819191cd-d6b9-467d-8026-fdf65379ff9c",
+      "DisplayName": "NSE.Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
