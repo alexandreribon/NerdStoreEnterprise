@@ -15,7 +15,17 @@
       "ProjectGuid": "819191cd-d6b9-467d-8026-fdf65379ff9c",
       "DisplayName": "NSE.Core",
       "ColorIndex": 1
+    },
+    "9eecef60-bcab-4f30-82f8-a9173b46f6cd": {
+      "ProjectGuid": "9eecef60-bcab-4f30-82f8-a9173b46f6cd",
+      "DisplayName": "NSE.WebApp.MVC",
+      "ColorIndex": 2
+    },
+    "d6787a31-0f8a-494a-95d4-e821954bd58f": {
+      "ProjectGuid": "d6787a31-0f8a-494a-95d4-e821954bd58f",
+      "DisplayName": "NSE.Catalogo.API",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

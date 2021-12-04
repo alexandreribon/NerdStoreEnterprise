@@ -341,7 +341,6 @@ C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebA
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.TagHelpers.output.cache
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.RazorCoreGenerate.cache
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -355,3 +354,15 @@ C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebA
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\ref\NSE.WebApp.MVC.dll
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.pdb
 C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Identidade\Login.cshtml.g.cs
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Identidade\Registro.cshtml.g.cs
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Projetos\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Home\_MenuCategoria.cshtml.g.cs
